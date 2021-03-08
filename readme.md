@@ -51,10 +51,13 @@ npm run test
 - **tipo**: Boolean
 
 ## Ejemplo
-Para alfil = "A1" y peón = "C3", la salida debe ser = verdadero.
+Para alfil = "A1" y peón = "C3", la salida debe ser = verdadero.  
+
 ![](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2FbishopPawn1.jpg?alt=media&token=c130d63b-2de4-4328-a9cb-4bb0d7658e1d)  
----
-Para alfil = "H1" y peón = "H3", la salida debe ser = falso.
+---  
+
+Para alfil = "H1" y peón = "H3", la salida debe ser = falso.  
+
 ![](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2FbishopPawn2.jpg?alt=media&token=74344d5f-b9fb-4853-909f-4c592829ce12)  
 ## Tests
 
