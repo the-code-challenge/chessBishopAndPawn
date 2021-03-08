@@ -4,7 +4,7 @@
   "description": "challenge template",
   "main": "index.js",
   "scripts": {
-    "test": "mocha test.js --reporter spec"
+    "test": "mocha test.js --reporter spec --timeout 10000"
   },
   "author": "Cristian Incarnato",
   "license": "MIT",

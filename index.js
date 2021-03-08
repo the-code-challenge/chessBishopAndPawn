@@ -1,4 +1,4 @@
-const challengeFunction = function(param){
+const challengeFunction = function(bishop, pawn){
     /* YOUR CODE HERE */
     let result
 
