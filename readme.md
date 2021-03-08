@@ -1,4 +1,4 @@
-# Code Challenge: Name
+# Code Challenge: chessBishopAndPawn
 
 Dadas las posiciones de un alfil blanco y un peón negro en el tablero de ajedrez estándar, 
 determine si el alfil puede capturar el peón en un solo movimiento.
