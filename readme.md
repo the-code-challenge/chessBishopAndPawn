@@ -3,11 +3,22 @@
 Dadas las posiciones de un alfil blanco y un peón negro en el tablero de ajedrez estándar, 
 determine si el alfil puede capturar el peón en un solo movimiento.
 
+### Movimiento del Alfil (Bishop)
 El alfil no tiene restricciones de distancia para cada movimiento, pero está limitado al movimiento diagonal. 
 
 Consulte el ejemplo a continuación para ver cómo se puede mover:  
-
 ![](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2Fbishop.jpg?alt=media&token=260667ac-a778-4135-9a16-a6c1e19f57c4)
+
+### Coordenadas en tablero de Ajedrez
+La posición de una celda en el tablero de ajedrez se identifica mediante una coordenada alfanumérica.   
+
+- El eje horizontal o eje X se identifica con una letra entre la "A" y la "H" (A,B,C,D,E,F,G,H)  
+- El eje vertical o eje Y se identiica con un numero entre el "1" y el "8" (1,2,3,4,5,6,7,8)  
+
+Por ejemplo: "A1", "G7", "F3"  
+
+![Tablero Ajedrez](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2FtablerAjedrez.jpg?alt=media&token=d6ba9a45-7646-49a1-b7c2-45138e9df7fd)
+
 
 ## Instrucciones
 - Crear un nuevo repositorio utilizando este repositorio como template (Boton: use this template).
