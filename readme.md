@@ -78,7 +78,7 @@ Para alfil = "H1" y peón = "H3", la salida debe ser = falso.
 ---
 ### Test 4  
 
-- **Parametros**: (bishop = "B2", pawn = "E4")  
+- **Parametros**: (bishop = "B2", pawn = "E5")  
 - **Resultado esperado**: true
 ---
 ### Test 5
